@@ -1,4 +1,5 @@
-# 🔐 Secure Chat App (Client-Serveur)
+# 🔐 LeChatBoxé (Client-Serveur)
+## (Projet réalisé en 5h)
 
 Une application de chat sécurisée en ligne de commande, développée en Python.  
 Elle utilise un serveur TCP multi-client, une base de données SQLite pour la gestion des utilisateurs et messages, et intègre plusieurs couches de chiffrement (Fernet + chiffrement personnalisé).
